@@ -1,19 +1,16 @@
 <img src="Media/header_g_logo_2024.png" class="center">
 
   
-# 7 Days to die Mod
+# 7 Days to Die Mod
 
-<p style="text-align: center">
+<h1 align="center">
 You will gain no xp for Repairing anything in game. 
-</p>
 
-<p style="text-align: center">
 This mod removes all Repair / Upgrade XP in Game Tested
-</p>
 
-<p style="text-align: center">
 Works with both Version 1 and Version 2 
-</p>
+
+</h1>
 
 <img src="Media/ascii-art-text.png" width="600" class="center">
 

@@ -17,11 +17,17 @@ Works with both Version 1 and Version 2
 ## Installation ##
 
 ```command
-extract into the mods folder
-harmony etc .. mods ..
-noxpgiven
+extract NoXpGain-Repairing.rar into 7 days to die/Mods folder
+you should have a sub folder called
+NoXPGain-Repairing under the 
+0_TFP_Harmony folder
 ```
 
-Check you have downloaded the latest version if there are any issues <a href="mailto:legionslost@proton.me?subject=urltofile">legionslost@proton.me</a> 
+This mod does not require a new game to use so can be added to
+the game when you want to.. ;) 
+
+Enjoy ..
+
+If there are any issues <a href="mailto:legionslost@proton.me?subject=urltofile">legionslost@proton.me</a> 
 or you can support me <a href="https://buymeacoffee.com/legionslost"> <img src="Media/bmc.webp" width=50 height=50> <img src="Media/qr-code.png" width="100" height="100"></a>
 
